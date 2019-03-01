@@ -3,9 +3,9 @@
   <head>
   <title>About</title>
   </head>
-  <body>
- <font size=8 color=red>
- <h1>About</h1>
+  <body> 
+<h1>About</h1>
+<font size=5 color=red>
   <p>This company will be a secuirity masterpeice. It protects your passwords using the fortress anolgy and it will put hackers in their place.</p>
     <h2><br><br><a href="index.html">Home</a></h2>
   </font>
