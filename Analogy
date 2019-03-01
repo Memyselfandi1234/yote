@@ -5,7 +5,7 @@
 Anaogy
 </title>
 </head>
-<body>
+<body style="background-color:gold;">
 <h1>
 <font color=red>
 Analogy
@@ -17,6 +17,7 @@ Analogy
 <br>If they try to go kill the king(Software) they find a suprise. They king is acutely a war machine and elimanates the hackers.
 </p>
 </font>
+<h2><br><br><a href="index.html">Home</a> <a href="Analogy">Analogy</a></h2>
 </body>
 </html>
 
